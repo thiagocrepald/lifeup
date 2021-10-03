@@ -6,12 +6,6 @@ import {
   } from 'react-native';
 import { styles } from './styles';
 
-/* Import Images */
-import MinhaSaude from '../../assets/minhasaude.png';
-import Habitos from '../../assets/habitos.png';
-import Recursos from '../../assets/recursos.png';
-import Configuracoes from '../../assets/configuracoes.png';
-
 export function CourseDetail() {
 
     return (
