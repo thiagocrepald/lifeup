@@ -2,7 +2,6 @@
   <img align="center" alt="LifeUP" height="100" width="74" src="https://cdn.discordapp.com/attachments/901928078748557315/901928288056918056/logolife.png">
 </div>
 
-#
 
 <h4>Description</h4>
 <blockquote>
